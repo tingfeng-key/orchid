@@ -1,7 +1,8 @@
 # orchid
 
 `orchid` 是基于`axum` + `prisma-client-rust` 开发的后台管理系统服务端实现。
-*注意*:仓库已迁移至[orchid-admin/axum-admin](https://github.com/orchid-admin/axum-admin)，此仓库不在更新
+
+**注意**:仓库已迁移至[orchid-admin/axum-admin](https://github.com/orchid-admin/axum-admin)，此仓库不在更新
 
 ## 相关文档
 
